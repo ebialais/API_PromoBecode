@@ -1,14 +1,15 @@
 # API_PromoBecode
 
-Premier exercice nécessitant d'utiliser des API.
+After 1.5 month of training at becode, this is the first exercice we made with RestAPI.
 
-- comprendre le fonctionnement des API
-- comprendre comment parameter la request
-- comprendre comment traiter les données reçues suite à la request
+The aim was to: 
+- understand how API works
+- set the request
+- understand how to process the data received following the request
 
-- mettre en place un style pouvant s'adapter dynamiquement aux eventels ajouts/suppression de l'API
+- set up a style that can dynamically adapt to any API additions / deletions
 
 
-Premier exercice imposant l'utilisation de Boostrap pour le style.
+First exercise imposing the use of Bootstrap for the style.
 
 ![View](Screenshot.png)
