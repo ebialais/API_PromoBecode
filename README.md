@@ -10,3 +10,5 @@ Premier exercice nécessitant d'utiliser des API.
 
 
 Premier exercice imposant l'utilisation de Boostrap pour le style.
+
+![View](Screenshot.png)
